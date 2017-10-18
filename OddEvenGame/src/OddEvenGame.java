@@ -55,3 +55,5 @@ public class OddEvenGame {
 	}
 
 }
+
+// Does the user have to play 1000 times, Omar?  Please add more comments.
